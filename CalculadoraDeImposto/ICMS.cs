@@ -6,8 +6,12 @@ using System.Threading.Tasks;
 
 namespace CalculadoraDeImposto
 {
-    public  interface Imposto
+    class ICMS : Imposto
     {
-        double CalculaImposto(double valor);
+
+        public double CalculaImposto(double valor)
+        {
+            return valor * 0.27;
+        }
     }
 }

@@ -6,7 +6,11 @@ namespace CalculadoraDeImposto
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            double valor;
+            Console.Write("Digite o  valor");
+            valor = Convert.ToDouble(Console.ReadLine());
+
+
         }
     }
 }
