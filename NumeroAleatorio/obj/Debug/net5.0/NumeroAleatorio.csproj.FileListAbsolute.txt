@@ -1,0 +1,16 @@
+C:\Users\Caio\Documents\MeusProjetos\etapa_tecnica_gft\NumeroAleatorio\bin\Debug\net5.0\NumeroAleatorio.exe
+C:\Users\Caio\Documents\MeusProjetos\etapa_tecnica_gft\NumeroAleatorio\bin\Debug\net5.0\NumeroAleatorio.deps.json
+C:\Users\Caio\Documents\MeusProjetos\etapa_tecnica_gft\NumeroAleatorio\bin\Debug\net5.0\NumeroAleatorio.runtimeconfig.json
+C:\Users\Caio\Documents\MeusProjetos\etapa_tecnica_gft\NumeroAleatorio\bin\Debug\net5.0\NumeroAleatorio.runtimeconfig.dev.json
+C:\Users\Caio\Documents\MeusProjetos\etapa_tecnica_gft\NumeroAleatorio\bin\Debug\net5.0\NumeroAleatorio.dll
+C:\Users\Caio\Documents\MeusProjetos\etapa_tecnica_gft\NumeroAleatorio\bin\Debug\net5.0\ref\NumeroAleatorio.dll
+C:\Users\Caio\Documents\MeusProjetos\etapa_tecnica_gft\NumeroAleatorio\bin\Debug\net5.0\NumeroAleatorio.pdb
+C:\Users\Caio\Documents\MeusProjetos\etapa_tecnica_gft\NumeroAleatorio\obj\Debug\net5.0\NumeroAleatorio.csproj.AssemblyReference.cache
+C:\Users\Caio\Documents\MeusProjetos\etapa_tecnica_gft\NumeroAleatorio\obj\Debug\net5.0\NumeroAleatorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caio\Documents\MeusProjetos\etapa_tecnica_gft\NumeroAleatorio\obj\Debug\net5.0\NumeroAleatorio.AssemblyInfoInputs.cache
+C:\Users\Caio\Documents\MeusProjetos\etapa_tecnica_gft\NumeroAleatorio\obj\Debug\net5.0\NumeroAleatorio.AssemblyInfo.cs
+C:\Users\Caio\Documents\MeusProjetos\etapa_tecnica_gft\NumeroAleatorio\obj\Debug\net5.0\NumeroAleatorio.csproj.CoreCompileInputs.cache
+C:\Users\Caio\Documents\MeusProjetos\etapa_tecnica_gft\NumeroAleatorio\obj\Debug\net5.0\NumeroAleatorio.dll
+C:\Users\Caio\Documents\MeusProjetos\etapa_tecnica_gft\NumeroAleatorio\obj\Debug\net5.0\ref\NumeroAleatorio.dll
+C:\Users\Caio\Documents\MeusProjetos\etapa_tecnica_gft\NumeroAleatorio\obj\Debug\net5.0\NumeroAleatorio.pdb
+C:\Users\Caio\Documents\MeusProjetos\etapa_tecnica_gft\NumeroAleatorio\obj\Debug\net5.0\NumeroAleatorio.genruntimeconfig.cache

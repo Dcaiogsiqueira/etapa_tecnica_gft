@@ -1,0 +1,16 @@
+C:\Users\Caio\Documents\MeusProjetos\etapa_tecnica_gft\multiplicador\bin\Debug\net5.0\multiplicador.exe
+C:\Users\Caio\Documents\MeusProjetos\etapa_tecnica_gft\multiplicador\bin\Debug\net5.0\multiplicador.deps.json
+C:\Users\Caio\Documents\MeusProjetos\etapa_tecnica_gft\multiplicador\bin\Debug\net5.0\multiplicador.runtimeconfig.json
+C:\Users\Caio\Documents\MeusProjetos\etapa_tecnica_gft\multiplicador\bin\Debug\net5.0\multiplicador.runtimeconfig.dev.json
+C:\Users\Caio\Documents\MeusProjetos\etapa_tecnica_gft\multiplicador\bin\Debug\net5.0\multiplicador.dll
+C:\Users\Caio\Documents\MeusProjetos\etapa_tecnica_gft\multiplicador\bin\Debug\net5.0\ref\multiplicador.dll
+C:\Users\Caio\Documents\MeusProjetos\etapa_tecnica_gft\multiplicador\bin\Debug\net5.0\multiplicador.pdb
+C:\Users\Caio\Documents\MeusProjetos\etapa_tecnica_gft\multiplicador\obj\Debug\net5.0\multiplicador.csproj.AssemblyReference.cache
+C:\Users\Caio\Documents\MeusProjetos\etapa_tecnica_gft\multiplicador\obj\Debug\net5.0\multiplicador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caio\Documents\MeusProjetos\etapa_tecnica_gft\multiplicador\obj\Debug\net5.0\multiplicador.AssemblyInfoInputs.cache
+C:\Users\Caio\Documents\MeusProjetos\etapa_tecnica_gft\multiplicador\obj\Debug\net5.0\multiplicador.AssemblyInfo.cs
+C:\Users\Caio\Documents\MeusProjetos\etapa_tecnica_gft\multiplicador\obj\Debug\net5.0\multiplicador.csproj.CoreCompileInputs.cache
+C:\Users\Caio\Documents\MeusProjetos\etapa_tecnica_gft\multiplicador\obj\Debug\net5.0\multiplicador.dll
+C:\Users\Caio\Documents\MeusProjetos\etapa_tecnica_gft\multiplicador\obj\Debug\net5.0\ref\multiplicador.dll
+C:\Users\Caio\Documents\MeusProjetos\etapa_tecnica_gft\multiplicador\obj\Debug\net5.0\multiplicador.pdb
+C:\Users\Caio\Documents\MeusProjetos\etapa_tecnica_gft\multiplicador\obj\Debug\net5.0\multiplicador.genruntimeconfig.cache
