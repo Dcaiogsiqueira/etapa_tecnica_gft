@@ -1,0 +1,16 @@
+C:\Users\Caio\Documents\MeusProjetos\etapa_tecnica_gft\pooComiteOlimpico\obj\Debug\net5.0\pooComiteOlimpico.csproj.AssemblyReference.cache
+C:\Users\Caio\Documents\MeusProjetos\etapa_tecnica_gft\pooComiteOlimpico\obj\Debug\net5.0\pooComiteOlimpico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caio\Documents\MeusProjetos\etapa_tecnica_gft\pooComiteOlimpico\obj\Debug\net5.0\pooComiteOlimpico.AssemblyInfoInputs.cache
+C:\Users\Caio\Documents\MeusProjetos\etapa_tecnica_gft\pooComiteOlimpico\obj\Debug\net5.0\pooComiteOlimpico.AssemblyInfo.cs
+C:\Users\Caio\Documents\MeusProjetos\etapa_tecnica_gft\pooComiteOlimpico\obj\Debug\net5.0\pooComiteOlimpico.csproj.CoreCompileInputs.cache
+C:\Users\Caio\Documents\MeusProjetos\etapa_tecnica_gft\pooComiteOlimpico\bin\Debug\net5.0\pooComiteOlimpico.exe
+C:\Users\Caio\Documents\MeusProjetos\etapa_tecnica_gft\pooComiteOlimpico\bin\Debug\net5.0\pooComiteOlimpico.deps.json
+C:\Users\Caio\Documents\MeusProjetos\etapa_tecnica_gft\pooComiteOlimpico\bin\Debug\net5.0\pooComiteOlimpico.runtimeconfig.json
+C:\Users\Caio\Documents\MeusProjetos\etapa_tecnica_gft\pooComiteOlimpico\bin\Debug\net5.0\pooComiteOlimpico.runtimeconfig.dev.json
+C:\Users\Caio\Documents\MeusProjetos\etapa_tecnica_gft\pooComiteOlimpico\bin\Debug\net5.0\pooComiteOlimpico.dll
+C:\Users\Caio\Documents\MeusProjetos\etapa_tecnica_gft\pooComiteOlimpico\bin\Debug\net5.0\ref\pooComiteOlimpico.dll
+C:\Users\Caio\Documents\MeusProjetos\etapa_tecnica_gft\pooComiteOlimpico\bin\Debug\net5.0\pooComiteOlimpico.pdb
+C:\Users\Caio\Documents\MeusProjetos\etapa_tecnica_gft\pooComiteOlimpico\obj\Debug\net5.0\pooComiteOlimpico.dll
+C:\Users\Caio\Documents\MeusProjetos\etapa_tecnica_gft\pooComiteOlimpico\obj\Debug\net5.0\ref\pooComiteOlimpico.dll
+C:\Users\Caio\Documents\MeusProjetos\etapa_tecnica_gft\pooComiteOlimpico\obj\Debug\net5.0\pooComiteOlimpico.pdb
+C:\Users\Caio\Documents\MeusProjetos\etapa_tecnica_gft\pooComiteOlimpico\obj\Debug\net5.0\pooComiteOlimpico.genruntimeconfig.cache

@@ -10,7 +10,7 @@ namespace CalculadoraDeImposto
             Console.Write("Digite o  valor");
             valor = Convert.ToDouble(Console.ReadLine());
 
-
+            
         }
     }
 }
