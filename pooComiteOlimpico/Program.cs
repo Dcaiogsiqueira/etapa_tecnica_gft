@@ -37,7 +37,10 @@ namespace pooComiteOlimpico
                 opcaoUsuario = ObterOpcaoUsuario();
             }
 
-            Console.WriteLine("Até logo!");
+            Console.Clear();
+            Console.WriteLine("---------------------------------------");
+            Console.WriteLine("---------------Até logo!---------------");
+            Console.WriteLine("---------------------------------------");
             Console.ReadLine();
         }
 
@@ -45,13 +48,18 @@ namespace pooComiteOlimpico
 
         private static void InserirAtleta()
         {
+            Console.Clear();
             
             for (int index = 0; repositorio.Lista().Count < 9; index++)
             {
+                Console.WriteLine("\n--------------------------------------------------");
                 Console.WriteLine("Você está cadastrando o " + (repositorio.Lista().Count + 1) + "° Atleta");
-                Console.WriteLine("\nInserir novo atleta\n\n");
+                Console.WriteLine("--------------------------------------------------\n");
+                Console.WriteLine("--------------------------------------------------");
+                Console.WriteLine("Inserir novo atleta");
+                Console.WriteLine("--------------------------------------------------\n");
 
-                    Console.Write("Digite o nome do atleta: ");
+                Console.Write("Digite o nome do atleta: ");
                     string entradaNome = Console.ReadLine();
 
                     Console.Write("\nDigite o Pais do atleta: ");
@@ -72,6 +80,7 @@ namespace pooComiteOlimpico
         
         private static void ListarAtletas()
         {
+            Console.Clear();
             
             Console.WriteLine("\t\tLista de atletas\n\n ");
 
@@ -90,6 +99,7 @@ namespace pooComiteOlimpico
 
         private static void ListarMedalhistas()
         {
+            Console.Clear();
            
             Console.WriteLine("\t\tLista de medalhistas\n\n ");
 
