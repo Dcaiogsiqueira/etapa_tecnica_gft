@@ -1,0 +1,16 @@
+C:\Users\Caio\Documents\MeusProjetos\etapa_tecnica_gft\CalculadoraDeImposto\bin\Debug\net5.0\CalculadoraDeImposto.exe
+C:\Users\Caio\Documents\MeusProjetos\etapa_tecnica_gft\CalculadoraDeImposto\bin\Debug\net5.0\CalculadoraDeImposto.deps.json
+C:\Users\Caio\Documents\MeusProjetos\etapa_tecnica_gft\CalculadoraDeImposto\bin\Debug\net5.0\CalculadoraDeImposto.runtimeconfig.json
+C:\Users\Caio\Documents\MeusProjetos\etapa_tecnica_gft\CalculadoraDeImposto\bin\Debug\net5.0\CalculadoraDeImposto.runtimeconfig.dev.json
+C:\Users\Caio\Documents\MeusProjetos\etapa_tecnica_gft\CalculadoraDeImposto\bin\Debug\net5.0\CalculadoraDeImposto.dll
+C:\Users\Caio\Documents\MeusProjetos\etapa_tecnica_gft\CalculadoraDeImposto\bin\Debug\net5.0\ref\CalculadoraDeImposto.dll
+C:\Users\Caio\Documents\MeusProjetos\etapa_tecnica_gft\CalculadoraDeImposto\bin\Debug\net5.0\CalculadoraDeImposto.pdb
+C:\Users\Caio\Documents\MeusProjetos\etapa_tecnica_gft\CalculadoraDeImposto\obj\Debug\net5.0\CalculadoraDeImposto.csproj.AssemblyReference.cache
+C:\Users\Caio\Documents\MeusProjetos\etapa_tecnica_gft\CalculadoraDeImposto\obj\Debug\net5.0\CalculadoraDeImposto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caio\Documents\MeusProjetos\etapa_tecnica_gft\CalculadoraDeImposto\obj\Debug\net5.0\CalculadoraDeImposto.AssemblyInfoInputs.cache
+C:\Users\Caio\Documents\MeusProjetos\etapa_tecnica_gft\CalculadoraDeImposto\obj\Debug\net5.0\CalculadoraDeImposto.AssemblyInfo.cs
+C:\Users\Caio\Documents\MeusProjetos\etapa_tecnica_gft\CalculadoraDeImposto\obj\Debug\net5.0\CalculadoraDeImposto.csproj.CoreCompileInputs.cache
+C:\Users\Caio\Documents\MeusProjetos\etapa_tecnica_gft\CalculadoraDeImposto\obj\Debug\net5.0\CalculadoraDeImposto.dll
+C:\Users\Caio\Documents\MeusProjetos\etapa_tecnica_gft\CalculadoraDeImposto\obj\Debug\net5.0\ref\CalculadoraDeImposto.dll
+C:\Users\Caio\Documents\MeusProjetos\etapa_tecnica_gft\CalculadoraDeImposto\obj\Debug\net5.0\CalculadoraDeImposto.pdb
+C:\Users\Caio\Documents\MeusProjetos\etapa_tecnica_gft\CalculadoraDeImposto\obj\Debug\net5.0\CalculadoraDeImposto.genruntimeconfig.cache
