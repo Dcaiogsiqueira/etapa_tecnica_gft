@@ -8,17 +8,28 @@ namespace NumeroAleatorio
         {
             int numerodigitado;
             int numeroaleatorio;
+            string opcao = "";
             do
             {
+                do
+                {
+                    Random random = new();
 
-                Random random = new();
+                    numeroaleatorio = random.Next(0, 7);
 
-                numeroaleatorio = random.Next(0, 7);
+                    Console.Write("digite um numero entre 0 e 7: ");
+                    numerodigitado = Convert.ToInt32(Console.ReadLine());
+                    Console.WriteLine("Você errou, tente novamente");
+                    Console.ReadKey();
 
-                Console.Write("digite um numero entre 0 e 7: ");
-                numerodigitado = Convert.ToInt32(Console.ReadLine());
-                
-            } while (numerodigitado != numeroaleatorio);
+                } while (numerodigitado != numeroaleatorio);
+
+                Console.WriteLine("Você acertou!!!!!");
+                Console.WriteLine("Deseja jogar novamente?");
+                Console.Write("Sim ou não?");
+                opcao = Console.ReadLine().ToUpper();
+            } while (opcao == "SIM");
+
 
             Console.ReadKey();
         }
